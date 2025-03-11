@@ -1,5 +1,5 @@
 
-<h2 align="left">👋 Olá, eu sou o Sergio!<br><br>🎓 Estudante de Ciência da Computação (4ª fase)<br>💻 Iniciando minha jornada como desenvolvedor<br>🏀 Gosto de basquete, academia e desafios de programação<br>🔍 Buscando oportunidades para aprender e crescer na área de TI<br><br>📫 Contato:Sergiofolchini@hotmail.com </h2> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+<h2 align="left">👋 Olá, eu sou o Sergio!<br><br>🎓 Estudante de Ciência da Computação (4ª fase)<br>💻 Iniciando minha jornada como desenvolvedor<br>🏀 Gosto de basquete, academia e desafios de programação<br>🔍 Buscando oportunidades para aprender e crescer na área de TI<br><br>📫 Contato:Sergiofolchini@hotmail.com </h2> <a href="https://www.instagram.com/sergiofolchinii/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 
 ###
 
