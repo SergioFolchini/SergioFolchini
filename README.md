@@ -1,4 +1,5 @@
-<h2 align="left">👋 Olá, eu sou o Sergio!<br><br>🎓 Estudante de Ciência da Computação (4ª fase)<br>💻 Iniciando minha jornada como desenvolvedor<br>🏀 Gosto de basquete, academia e desafios de programação<br>🔍 Buscando oportunidades para aprender e crescer na área de TI<br><br>📫 Contato: Sergiofolchini@hotmail.com</h2>
+<h2 align="left">👋 Hello, I’m Sergio!<br><br>🎓 Computer Science Student (4th semester)<br>💻 Starting my journey as a developer<br>🏀 I enjoy basketball, gym, and programming challenges<br>🔍 Looking for opportunities to learn and grow in the IT field<br><br>📫 Contact: Sergiofolchini@hotmail.com</h2>
+
 
 ###
 
