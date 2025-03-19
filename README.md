@@ -1,5 +1,4 @@
-<h2 align="left">👋 Hello, I’m Sergio!<br><br>🎓 Computer Science Student (4th semester)<br>💻 Starting my journey as a developer<br>🏀 I enjoy basketball, gym, and programming challenges<br>🔍 Looking for opportunities to learn and grow in the IT field<br><br>📫 Contact: Sergiofolchini@hotmail.com</h2>
-
+<h2 align="left">👋 Olá, eu sou o Sergio!<br><br>🎓 Estudante de Ciência da Computação (4ª fase)<br>💻 Iniciando minha jornada como desenvolvedor<br>🏀 Gosto de basquete, academia e desafios de programação<br>🔍 Buscando oportunidades para aprender e crescer na área de TI</h2>
 
 ###
 
@@ -10,11 +9,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
 ###
