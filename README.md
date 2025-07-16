@@ -1,4 +1,4 @@
-<h2 align="left">👋 Olá, eu sou o Sergio!<br><br>🎓 Estudante de Ciência da Computação (4ª fase)<br>💻 Iniciando minha jornada como desenvolvedor<br>🏀 Gosto de basquete, academia e desafios de programação<br>🔍 Buscando oportunidades para aprender e crescer na área de TI</h2>
+<h2 align="left">👋 Olá, eu sou o Sergio!<br><br>🎓 Estudante de Ciência da Computação (5ª fase)<br>💻 Iniciando minha jornada como desenvolvedor<br>🏀 Gosto de basquete, academia e desafios de programação<br>🔍 Buscando oportunidades para aprender e crescer na área de TI</h2>
 
 ###
 
